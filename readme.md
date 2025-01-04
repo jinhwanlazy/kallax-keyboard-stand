@@ -15,10 +15,10 @@ This is a furniture design that extends an IKEA Kallax shelf unit to create a ke
 
 ## Real Build
 
-![Installed Stand 1](IMG_5046.jpg)
+![Installed Stand 1](IMG_5047.jpg)
 *The keyboard stand installed on Kallax shelf*
 
-![Installed Stand 2](IMG_5047.jpg)
+![Installed Stand 2](IMG_5046.jpg)
 *Bottom of the installed stand*
 
 ## Files
@@ -35,7 +35,7 @@ This is a furniture design that extends an IKEA Kallax shelf unit to create a ke
 
 ## Disclaimer
 
-The design includes a [relatively large tolerance (0.5mm)](https://github.com/jinhwanlazy/kallax-keyboard-stand-extension/blob/main/keyboard_stand.scad#L11) for the joints as I was uncertain about the material quality and milling precision. As a result, the joints turned out to be slightly loose. If you plan to build this yourself, carefully adjust the tolerance parameter and consult with your milling service provider about their precision capabilities.
+The design includes a [relatively large tolerance (0.5mm)](https://github.com/jinhwanlazy/kallax-keyboard-stand/blob/main/keyboard_stand.scad#L11) for the joints as I was uncertain about the material quality and milling precision. As a result, the joints turned out to be slightly loose. If you plan to build this yourself, carefully adjust the tolerance parameter and consult with your milling service provider about their precision capabilities.
 
 The design parameters are specifically set for the Korg D1 keyboard shown in the pictures. While the design is parametric, I cannot guarantee it will work correctly with other dimensions as I don't have the resources to test different configurations. If you want to adapt this for a different keyboard, measure your keyboard's dimensions carefully and update the parameters accordingly.
 
